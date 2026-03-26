@@ -4,14 +4,14 @@ Official releases of the AVN Node Dashboard desktop application.
 
 ## Installation
 
+Pre-built packages are available for all major platforms. Download the release that matches your operating system from the [**Releases**](../../releases) page, then follow the platform-specific instructions below.
+
 | Platform | Download | Notes |
 |----------|----------|-------|
-| **macOS** | `.dmg` | Apple (Mac) native executable. [Details ↓](#running-on-macos) |
-| **Windows** | `.exe` | Windows native executable. [Details ↓](#running-on-windows) |
-| **Linux** | `.AppImage` | Linux portable executable; `.deb` also available. [Details ↓](#running-on-linux) |
+| **macOS** | `.dmg` | Native macOS application. [Details ↓](#running-on-macos) |
+| **Windows** | `.exe` | Windows installer. [Details ↓](#running-on-windows) |
+| **Linux** | `.AppImage` | Portable executable, no installation required. [Details ↓](#running-on-linux) |
 | **Docker** | `docker.tar.gz` | Cross-platform container image. [Details ↓](#running-with-docker) |
-
-Head to the [**Releases**](../../releases) page to download the latest version.
 
 ## Running on macOS
 
@@ -31,7 +31,7 @@ Head to the [**Releases**](../../releases) page to download the latest version.
 
 ## Running on Linux
 
-1. Download the `.AppImage` (or `.deb` on Debian/Ubuntu) from the [Releases](../../releases) page.
+1. Download the `.AppImage` from the [Releases](../../releases) page.
 
 **AppImage:**
 
